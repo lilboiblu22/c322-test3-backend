@@ -1,0 +1,3 @@
+joey,$2a$10$OJcu2S/7T6FzYJdkNIwKyeeVYw/9B3jjL4TxiE5eTtz3lHKBdDCX6,fake@email.com
+jonny,$2a$10$ziyehuYZPWUpJgJd7uXVCedW/bHFlG6yx6nafXS5mxIgAth7jE47W,apple@gmail.com
+jerry,$2a$10$vSAQ8weP0iklMR5578IJkOVmftC3Eru/6reOienH4xYtO7wsFVeTC,jerry@gmail.com
